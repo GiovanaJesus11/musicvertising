@@ -255,7 +255,7 @@ button {
     color: #000;
 }
 .bg-light {
-    background-color: ##F4F4F4!important;
+    background-color: #F4F4F4;
     border-bottom: 10px solid #3E8914;
     padding: 20px 15px;
 }
